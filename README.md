@@ -39,7 +39,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
 
 ## Author
 -Paul Machuka Machuka
--JavaScript Developer | Passionate about solving everyday  Author
+-JavaScript Developer - Passionate about solving everyday  Author
   problems with code.
 
 Nairobi, Kenya
