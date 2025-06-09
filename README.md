@@ -38,8 +38,7 @@ Permission is granted to use, copy, modify, and distribute this software for any
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
 
 ## Author
--Paul Machuka Machuka
--JavaScript Developer - Passionate about solving everyday  Author
+-Paul Machuka Machuka a JavaScript Developer and passionate about solving everyday's author
   problems with code.
 
 Nairobi, Kenya
